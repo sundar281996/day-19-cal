@@ -1,0 +1,49 @@
+h1#title {
+  font-size: 60px;
+  text-align: center;
+}
+p#description {
+  text-align: center;
+  font-size: 40px;
+}
+
+#calc {
+  text-align: center;
+  width: 380px;
+  display: block;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #abc6c2;
+  padding: 8px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.titletag {
+  padding-top: 40px;
+}
+
+#display {
+  padding: 8px;
+  margin: 16px 12px 10px 16px;
+  text-align: center;
+  font-family: "Share Tech Mono", monospace;
+  border-radius: 8px;
+}
+
+#result {
+  font-size: 1.5em;
+  text-align: right;
+}
+button {
+  width: 86px;
+  margin: 2px;
+  font-size: 1.5em;
+}
+.row {
+  margin: 0px;
+}
+
+#equal {
+  width: 176px;
+}
